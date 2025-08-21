@@ -1,0 +1,20 @@
+[package]
+version = "0.0.0"
+name = "gen-smp"
+description = "Generate a social media post from the front matter of markdown source file for a blog post or web document."
+authors = ["jerusdp <jrussell@jerus.ie>"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/jerus-org/gen-smp"
+edition = "2024"
+rust-version = "1.87"
+keywords = ["toml", "social media", "bluesky"]
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+    "README.md",
+    "LICENSE-MIT",
+    "LICENSE-APACHE",
+]
+categories = ["web-programming"]
+
+[dependencies]
