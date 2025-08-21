@@ -7,7 +7,7 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/jerus-org/gen-smp"
 edition = "2024"
 rust-version = "1.87"
-keywords = ["toml", "social media", "bluesky"]
+keywords = ["toml", "social-media", "bluesky"]
 include = [
     "**/*.rs",
     "Cargo.toml",
